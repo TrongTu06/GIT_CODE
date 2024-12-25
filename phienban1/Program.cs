@@ -11,6 +11,7 @@ namespace phienban1
         static void Main(string[] args)
         {
             Console.WriteLine("xin chao");
+            Console.WriteLine("hello bro");
             Console.ReadLine();
         }
     }
