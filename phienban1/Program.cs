@@ -12,6 +12,7 @@ namespace phienban1
         {
             Console.WriteLine("xin chao");
             Console.WriteLine("hello bro");
+            Console.WriteLine("toi ten tt");
             Console.ReadLine();
         }
     }
